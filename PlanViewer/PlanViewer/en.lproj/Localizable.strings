@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  PlanViewer
+
+  Created by syakushevich on 26.06.21.
+  
+*/
+
+"Plans" = "Plans";
+"Plan's Details" = "Plan's Details";
+"Loading..." = "Loading...";
