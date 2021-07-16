@@ -1,3 +1,4 @@
 # PlanViewer
-Sample project demonstrating async/await usage inSwift 5.5. Xcode 13 beta is needed.
+Sample project demonstrating async/await usage in Swift 5.5. Xcode 13 beta is needed.
 Demonstrates processing of JSON's in group and display their's content in SwiftUI's views
+Detailed article is here: https://medium.com/nerd-for-tech/pursuing-async-await-f3f01a137b7d
